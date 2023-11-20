@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tack53", "Tack53\Tack53.csproj", "{95942FF0-4FC0-4A10-A80E-308B392F340D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95942FF0-4FC0-4A10-A80E-308B392F340D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95942FF0-4FC0-4A10-A80E-308B392F340D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95942FF0-4FC0-4A10-A80E-308B392F340D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95942FF0-4FC0-4A10-A80E-308B392F340D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {821B9768-9570-4D11-AD01-430469A6E31E}
+	EndGlobalSection
+EndGlobal
